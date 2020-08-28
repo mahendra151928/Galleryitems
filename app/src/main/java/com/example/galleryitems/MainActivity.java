@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     int dotscount,currentpage=0;
     ImageView[] dots;
     Timer timer;
-    private final long DELAY=500;
+    private final long DELAY=400;
     private final long PERIOD=3000;
 
     @Override
